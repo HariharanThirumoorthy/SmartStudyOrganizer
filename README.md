@@ -77,14 +77,6 @@ This project is licensed under the MIT License – feel free to use, modify, and
 🙌 Acknowledgements
 YOLOv5 by Ultralytics
 
-Flask community
-
-OpenCV and PyTorch contributors
-
-vbnet
-Copy
-
-Let me know when you're ready for the `README.md` of your **ABSA Deep Learning Project**, and we’ll keep building your portfolio strong! 💪
 
 
 
